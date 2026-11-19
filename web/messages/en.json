@@ -1,0 +1,233 @@
+{
+  "lang": "en",
+  "htmlLang": "en",
+  "skip": "Skip to content",
+  "nav": {
+    "destinations": "The Picks",
+    "regions": "Regions",
+    "stories": "Stories",
+    "about": "About",
+    "cta": "See the Picks",
+    "menu": "Menu",
+    "close": "Close",
+    "primary": "Main navigation",
+    "switchTo": "Bahasa",
+    "plan": "Plan"
+  },
+  "tagline": "Six places in NTT worth the trip.",
+  "descriptor": "Six Recommended Places in East Nusa Tenggara",
+  "meta": {
+    "home": "Pilihan Timur — Six places in NTT worth the trip",
+    "homeDesc": "Six hand-picked places to visit in East Nusa Tenggara, in two languages: destinations, photos, access notes, cost estimates, and video."
+  },
+  "hero": {
+    "sub": "A short guide to six chosen places in East Nusa Tenggara: photos, routes, estimated costs and video.",
+    "scroll": "See the picks",
+    "a11y": "Aerial photo of the Kelimutu crater lakes"
+  },
+  "know": {
+    "kicker": "Travel notes",
+    "h": "Know Before You Go",
+    "access": "Access level",
+    "safety": "Safety",
+    "safetyBody": "Conditions around volcanoes, surf, trekking routes, and conservation areas can change. Always follow guidance from site managers and local authorities."
+  },
+  "cta": {
+    "h": "Start with one island.",
+    "body": "Pick a destination, look at the photos, and understand the way there before you go.",
+    "btn": "Explore destinations"
+  },
+  "footer": {
+    "nav": "Explore",
+    "note": "Information may change. Confirm with the site manager before you go.",
+    "lang": "Language"
+  },
+  "tier": {
+    "A": "A — relatively easy to reach by vehicle, with a short walk.",
+    "B": "B — needs preparation, a longer journey, or walking.",
+    "C": "C — needs special transport, a boat, or a heavy trek."
+  },
+  "tierShort": {
+    "A": "Access A",
+    "B": "Access B",
+    "C": "Access C"
+  },
+  "doc": {
+    "P1": "P1 — documentation from government, agencies, site managers, or official portals.",
+    "P2": "P2 — documentation from media or tourism directories.",
+    "P3": "P3 — public documentation exists, but ownership or licence is unclear.",
+    "P0": "P0 — documentation not found or not adequate."
+  },
+  "list": {
+    "h": "Pilihan Timur",
+    "body": "Six chosen places to visit in Flores and nearby.",
+    "search": "Search name or regency",
+    "region": "Region",
+    "cat": "Category",
+    "access": "Access",
+    "all": "All",
+    "count": "{n} destinations",
+    "none": "No destinations match.",
+    "reset": "Reset filters",
+    "uncat": "Not yet categorised",
+    "filters": "Destination filters"
+  },
+  "detail": {
+    "crumbHome": "Home",
+    "candidate": "Pilihan Timur guide",
+    "journey": "Photos",
+    "journeyBody": "Photos of this place are being prepared.",
+    "where": "Location",
+    "kab": "Regency",
+    "coords": "Coordinates",
+    "verified": "Verified",
+    "verifiedOn": "Last verified",
+    "about": "About this place",
+    "openMap": "Open in map",
+    "sourcesTitle": "Information sources",
+    "getting": "Getting there",
+    "gettingBody": "Route information is being completed.",
+    "prepare": "Preparation & safety",
+    "prepareBody": "Follow the guidance of the site manager and local authorities, and check weather and sea conditions before you go.",
+    "fresh": "Sources & updates",
+    "source": "Source",
+    "sourceNone": "None yet",
+    "related": "In the same regency",
+    "back": "All destinations",
+    "report": "Spotted something wrong? Let us know; the editorial team will check it.",
+    "photoBy": "Photo",
+    "reportForm": {
+      "h": "Report a correction",
+      "body": "Tell us what is wrong or has changed and, if you can, include a link to a source. A report does not change the page directly; an editor checks it first.",
+      "message": "What needs correcting?",
+      "contact": "Contact (optional)",
+      "contactHint": "Email or WhatsApp, only if you would like a reply.",
+      "privacy": "Reports and contact details are read only by the editorial team and are never shown on the site.",
+      "submit": "Send report",
+      "ok": "Thank you. We have received your report and will review it.",
+      "invalid": "Please write at least 10 characters and at most 2,000.",
+      "throttled": "Too many reports are coming in right now. Please try again later.",
+      "error": "Your report could not be sent. Please try again shortly."
+    },
+    "cost": "Cost estimate",
+    "costWarn": "Estimated prices",
+    "costSrc": "Source of figures",
+    "checked": "checked",
+    "videoH": "Video",
+    "videoSoon": "Video coming soon",
+    "videoSoonBody": "A video of this place is being prepared and will appear here.",
+    "lastChecked": "Last checked"
+  },
+  "aboutPage": {
+    "h": "About Pilihan Timur",
+    "lead": "A concise bilingual guide to six chosen places in East Nusa Tenggara: nature, culture, and how to get there.",
+    "visionH": "Vision",
+    "vision": "To be a concise, trustworthy digital guide to chosen places in East Nusa Tenggara, for travellers from Indonesia and the world.",
+    "missionH": "Mission",
+    "mission": "To offer travel information that is sourced, visual, easy to find, bilingual, and mindful of local context.",
+    "fourH": "How we work",
+    "four": [
+      [
+        "Six, not hundreds",
+        "We chose just six places so each one can be done carefully rather than merely listed."
+      ],
+      [
+        "Licensed photos",
+        "Every photo has a clear credit and permission."
+      ],
+      [
+        "Sourced notes",
+        "Descriptions, access and cost estimates record their sources and the date they were checked. What has no data is stated as such."
+      ],
+      [
+        "Open to corrections",
+        "Spotted something wrong or out of date? Send a report from any place’s page and our team will check it."
+      ]
+    ],
+    "careH": "How we look after information",
+    "care": "Every piece of content records its source and check date. Every photo needs a clear licence or permission. Costs are estimates and can change, so confirm with the manager before you go.",
+    "noBooking": "Pilihan Timur does not sell tickets, hotels, or trips. It helps you get to know a place and prepare for the journey.",
+    "photosLabel": "Pilihan Timur"
+  },
+  "notFound": "Page not found",
+  "six": {
+    "kicker": "Six recommendations",
+    "h": "Six chosen places",
+    "body": "Six places in East Nusa Tenggara we recommend, with photos, routes and estimated costs.",
+    "more": "See details",
+    "cta": "See the picks",
+    "about": "About this site",
+    "aboutBody": "Pilihan Timur (\"The Six NTT Picks\") is a short bilingual (ID/EN) guide to six hand-picked places in East Nusa Tenggara. Information is recorded together with its sources and the date it was checked.",
+    "mapLabel": "Schematic of the six picks across Flores, west to east",
+    "mapNote": "A schematic of relative positions from west to east, not a scale map."
+  },
+  "trip": {
+    "h": "Route & budget",
+    "warn": "Estimated prices",
+    "routeH": "Travel route",
+    "to": "to",
+    "toRange": "to",
+    "budgetH": "Budget per person",
+    "perPerson": "/ person",
+    "basis": "Based on",
+    "budgetNone": "Cost information for this place is not available yet. Ask the local site manager.",
+    "budgetNote": "Only components with a source (tickets and transport). Food, lodging and souvenirs are not included.",
+    "openMap": "Open in Google Maps",
+    "mapNote": "The link opens a search for the place name, not official coordinates. Check the current route before you go.",
+    "advWarn": "Heads-up",
+    "advInfo": "Latest news",
+    "asOf": "as of",
+    "src": "source"
+  },
+  "plan": {
+    "kicker": "Plan from your city",
+    "h": "Where are you travelling from?",
+    "body": "Pick your home city anywhere in Indonesia. We show the suggested gateway airport in Flores and direct links to sites that list ticket prices, then you can work out the total cost from your city.",
+    "pick": "Home city",
+    "pickPh": "Choose your city",
+    "pickHint": "Choose a home city to see ticket-check links.",
+    "picked": "Travelling from {city}.",
+    "mapLabel": "Map of Indonesia: home cities and Flores, NTT",
+    "mapNote": "Schematic map. The dashed line only shows direction, not a flight route.",
+    "gatewayH": "Suggested gateway airport",
+    "checkH": "Check tickets from {city}",
+    "local": "On-site costs (sourced)",
+    "localNone": "On-site costs: no data yet",
+    "perPerson": "per person",
+    "calc": "Work out the total",
+    "otherH": "Other modes & official info",
+    "otherNote": "From Java, Sumatra and other islands, sea ships, ferries and trains are also options. Check schedules and fares directly on the provider's site.",
+    "flightsNote": "Fares change every day, so always check the provider’s site. The gateway airport is the suggested nearest airport for each place.",
+    "quakeH": "Heads-up: Flores earthquake, 15 August 2026",
+    "quake": "An M7.7 earthquake on 15 August 2026 briefly closed some destinations in Flores. According to BPOLBF (data as of 23 August 2026) the airports at Labuan Bajo, Ende, Maumere, Ruteng and Bajawa are operating and main roads are passable, but some destinations remain closed and aftershocks continue. Do not force visits to closed places, and check status with the manager before you go.",
+    "quakeSrc": "Source: BPOLBF, 24 August 2026"
+  },
+  "calc": {
+    "h": "Work out the cost from your city",
+    "intro": "Enter the ticket price you found on a provider's site. On-site costs (entry and local transport) are pre-filled from our sources. What you type stays on your device.",
+    "origin": "Home city",
+    "people": "Number of people",
+    "fare": "Return ticket price per person (IDR)",
+    "nights": "Nights of lodging",
+    "lodging": "Lodging per night, total (IDR)",
+    "meals": "Food per day per person (IDR)",
+    "check": "Check tickets from {city}",
+    "total": "Estimated total for {n} people",
+    "fillFare": "Enter a ticket price (from the links above) to see the total.",
+    "formula": "Tickets × people + lodging × nights + food × days × people + sourced on-site costs.",
+    "noFare": "No ticket price entered yet, so the total is incomplete.",
+    "disclaimer": "Estimated prices. Souvenirs, foreign-visitor tickets, boat hire and unexpected costs are not included; see the cost notes above."
+  },
+  "fares": {
+    "h": "Example prices (not exact fares)",
+    "ow": "Cheapest one-way",
+    "rt": "Cheapest round trip",
+    "avg": "Average round trip",
+    "range": "Monthly round-trip average",
+    "use": "Use",
+    "none": "No example price for this route yet; check with the links above.",
+    "disc": "Quoted from ticket aggregators on the date shown. Fares change daily and may differ when you book.",
+    "data": "data",
+    "usdNote": "in US dollars"
+  }
+}

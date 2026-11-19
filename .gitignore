@@ -1,0 +1,35 @@
+﻿# Environment dan secret
+.env
+.env.*
+**/.env
+**/.env.*
+!**/.env.example
+!**/.env.template
+
+# Node.js
+node_modules/
+**/node_modules/
+
+# Next.js
+.next/
+**/.next/
+out/
+**/out/
+coverage/
+**/coverage/
+*.tsbuildinfo
+**/*.tsbuildinfo
+web/next-env.d.ts
+
+# Backup proyek
+/web-backup-*/
+**/web-backup-*/
+
+# Lockfile tidak relevan di root
+/package-lock.json
+
+# File lokal
+.DS_Store
+*.log
+.vercel/
+**/.vercel/

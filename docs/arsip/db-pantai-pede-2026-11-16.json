@@ -1,0 +1,13 @@
+{
+  "catatan": "Cadangan baris database 'pantai-pede' sebelum dihapus atas permintaan pengelola (16 Nov 2026), diganti 'taman-nasional-komodo'.",
+  "destination": {"id":"1984337a-020f-4741-8888-9e63d5a8b276","name":"Pantai Pede","slug":"pantai-pede","access":"A","status":"in_review","kabupaten":"Manggarai Barat","region_id":"flores","doc_status":"P1","sort_order":0,"created_at":"2026-11-05T11:58:34Z","updated_at":"2026-11-07T07:22:29Z"},
+  "categories": ["beach"],
+  "translations": [
+    {"lang":"id","summary":"Pantai Pede berada di sisi barat Kota Labuan Bajo, di wilayah Desa Gorontalo.","description":"Pemerintah Provinsi NTT menyebut pantai ini berjarak sekitar lima menit berkendara dari pusat kota dan masih dapat diakses publik. Aktivitas yang disebutkan sumber meliputi bersantai di tepi pantai, berenang, dan snorkeling; waktu senja menjadi daya tarik utamanya."},
+    {"lang":"en","summary":"Pede Beach lies on the western side of Labuan Bajo, in Gorontalo village.","description":"The NTT Provincial Government describes the beach as about five minutes' drive from the town centre and still open to the public. Activities mentioned by the sources include relaxing by the shore, swimming and snorkelling; dusk is its main draw."}
+  ],
+  "sources": [
+    {"title":"Disparekraf NTT — artikel Pantai Pede","publisher":"Disparekraf NTT","url":"https://disparekraf.nttprov.go.id/artikel/penataan-pantai-pede-labuan-bajo-menjadi-ruang-terbuka-publik-humanis","accessed_on":"2026-11-06"},
+    {"title":"Pemerintah Provinsi NTT — Penataan Pantai Pede (13 Mei 2026)","publisher":"Pemerintah Provinsi NTT","url":"https://nttprov.go.id/artikel/2533-penataan-pantai-pede-labuan-bajo-menjadi-ruang-terbuka-publik-humanis","accessed_on":"2026-11-06"}
+  ]
+}

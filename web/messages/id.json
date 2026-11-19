@@ -1,0 +1,233 @@
+{
+  "lang": "id",
+  "htmlLang": "id",
+  "skip": "Lompat ke konten",
+  "nav": {
+    "destinations": "Pilihan",
+    "regions": "Kawasan",
+    "stories": "Cerita",
+    "about": "Tentang",
+    "cta": "Lihat Pilihan",
+    "menu": "Menu",
+    "close": "Tutup",
+    "primary": "Navigasi utama",
+    "switchTo": "English",
+    "plan": "Rencana"
+  },
+  "tagline": "Enam tempat di NTT yang layak kamu kunjungi.",
+  "descriptor": "Enam Rekomendasi Wisata di Nusa Tenggara Timur",
+  "meta": {
+    "home": "Pilihan Timur — Enam tempat di NTT yang layak kamu kunjungi",
+    "homeDesc": "Enam rekomendasi wisata pilihan di Nusa Tenggara Timur, dalam dua bahasa: destinasi, foto, akses, perkiraan biaya, dan video."
+  },
+  "hero": {
+    "sub": "Panduan ringkas ke enam tempat pilihan di Nusa Tenggara Timur: foto, rute, perkiraan biaya, dan video.",
+    "scroll": "Lihat pilihannya",
+    "a11y": "Foto udara danau kawah Kelimutu"
+  },
+  "know": {
+    "kicker": "Catatan perjalanan",
+    "h": "Sebelum Berangkat",
+    "access": "Tingkat akses",
+    "safety": "Keselamatan",
+    "safetyBody": "Kondisi gunung api, ombak, jalur trekking, dan kawasan konservasi dapat berubah. Selalu ikuti informasi pengelola dan otoritas setempat."
+  },
+  "cta": {
+    "h": "Mulai dari satu pulau.",
+    "body": "Pilih satu destinasi, lihat fotonya, dan pahami jalannya sebelum berangkat.",
+    "btn": "Jelajahi destinasi"
+  },
+  "footer": {
+    "nav": "Jelajah",
+    "note": "Informasi dapat berubah. Konfirmasi ke pengelola sebelum berangkat.",
+    "lang": "Bahasa"
+  },
+  "tier": {
+    "A": "A — relatif mudah dijangkau kendaraan dengan jalan kaki singkat.",
+    "B": "B — memerlukan persiapan, perjalanan lebih jauh, atau jalan kaki.",
+    "C": "C — membutuhkan transportasi khusus, perahu, atau trekking berat."
+  },
+  "tierShort": {
+    "A": "Akses A",
+    "B": "Akses B",
+    "C": "Akses C"
+  },
+  "doc": {
+    "P1": "P1 — dokumentasi dari pemerintah, dinas, pengelola, atau portal resmi.",
+    "P2": "P2 — dokumentasi dari media atau direktori wisata.",
+    "P3": "P3 — dokumentasi publik ada, tetapi pemilik atau lisensinya belum jelas.",
+    "P0": "P0 — dokumentasi belum ditemukan atau belum memadai."
+  },
+  "list": {
+    "h": "Pilihan Timur",
+    "body": "Enam rekomendasi wisata pilihan di Flores dan sekitarnya.",
+    "search": "Cari nama atau kabupaten",
+    "region": "Kawasan",
+    "cat": "Kategori",
+    "access": "Akses",
+    "all": "Semua",
+    "count": "{n} destinasi",
+    "none": "Tidak ada destinasi yang cocok.",
+    "reset": "Atur ulang filter",
+    "uncat": "Belum dikategorikan",
+    "filters": "Filter destinasi"
+  },
+  "detail": {
+    "crumbHome": "Beranda",
+    "candidate": "Panduan Pilihan Timur",
+    "journey": "Foto",
+    "journeyBody": "Foto tempat ini sedang disiapkan.",
+    "where": "Lokasi",
+    "kab": "Kabupaten",
+    "coords": "Koordinat",
+    "verified": "Terverifikasi",
+    "verifiedOn": "Terakhir diverifikasi",
+    "about": "Tentang destinasi",
+    "openMap": "Buka di peta",
+    "sourcesTitle": "Sumber informasi",
+    "getting": "Cara ke sana",
+    "gettingBody": "Informasi rute sedang dilengkapi.",
+    "prepare": "Persiapan & keselamatan",
+    "prepareBody": "Ikuti arahan pengelola dan otoritas setempat, serta periksa kondisi cuaca dan laut sebelum berangkat.",
+    "fresh": "Sumber & pembaruan",
+    "source": "Sumber",
+    "sourceNone": "Belum ada",
+    "related": "Di kabupaten yang sama",
+    "back": "Semua destinasi",
+    "report": "Menemukan informasi yang keliru? Beri tahu kami; tim editor akan memeriksanya.",
+    "photoBy": "Foto",
+    "reportForm": {
+      "h": "Laporkan koreksi",
+      "body": "Ceritakan apa yang keliru atau sudah berubah, dan kalau bisa sertakan tautan sumbernya. Laporan tidak langsung mengubah halaman; editor memeriksanya dulu.",
+      "message": "Apa yang perlu dikoreksi?",
+      "contact": "Kontak (opsional)",
+      "contactHint": "Email atau WhatsApp, hanya bila kamu ingin dihubungi.",
+      "privacy": "Laporan dan kontak hanya dibaca tim editor dan tidak ditampilkan di situs.",
+      "submit": "Kirim laporan",
+      "ok": "Terima kasih. Laporanmu sudah kami terima dan akan diperiksa.",
+      "invalid": "Mohon tulis minimal 10 huruf dan maksimal 2.000 karakter.",
+      "throttled": "Terlalu banyak laporan masuk saat ini. Coba lagi nanti.",
+      "error": "Laporan belum terkirim. Coba lagi sebentar lagi."
+    },
+    "cost": "Estimasi biaya",
+    "costWarn": "Perkiraan harga",
+    "costSrc": "Sumber angka",
+    "checked": "dicek",
+    "videoH": "Video",
+    "videoSoon": "Video menyusul",
+    "videoSoonBody": "Video tempat ini sedang disiapkan dan akan tampil di sini.",
+    "lastChecked": "Terakhir diperiksa"
+  },
+  "aboutPage": {
+    "h": "Tentang Pilihan Timur",
+    "lead": "Panduan ringkas dua bahasa untuk enam tempat pilihan di Nusa Tenggara Timur: alam, budaya, dan cara menuju ke sana.",
+    "visionH": "Visi",
+    "vision": "Menjadi panduan digital yang ringkas dan tepercaya untuk mengenal tempat-tempat pilihan di Nusa Tenggara Timur, bagi wisatawan Indonesia maupun dunia.",
+    "missionH": "Misi",
+    "mission": "Menyajikan informasi wisata yang bersumber, bergambar, mudah ditemukan, dua bahasa, dan memperhatikan konteks lokal.",
+    "fourH": "Cara kami bekerja",
+    "four": [
+      [
+        "Enam, bukan ratusan",
+        "Kami memilih hanya enam tempat supaya tiap tempat bisa digarap dengan teliti, bukan sekadar didaftar."
+      ],
+      [
+        "Foto berlisensi",
+        "Setiap foto punya kredit dan izin pemakaian yang jelas."
+      ],
+      [
+        "Catatan bersumber",
+        "Deskripsi, akses, dan perkiraan biaya mencatat sumber dan tanggal pemeriksaan. Yang belum ada datanya ditulis apa adanya."
+      ],
+      [
+        "Terbuka untuk koreksi",
+        "Menemukan informasi yang keliru atau sudah berubah? Kirim laporan dari halaman tiap tempat dan tim kami akan memeriksanya."
+      ]
+    ],
+    "careH": "Cara kami menjaga informasi",
+    "care": "Setiap konten mencatat sumber dan tanggal pemeriksaan. Setiap foto harus punya lisensi atau izin yang jelas. Angka biaya adalah perkiraan dan bisa berubah, jadi konfirmasi ke pengelola sebelum berangkat.",
+    "noBooking": "Pilihan Timur tidak menjual tiket, hotel, atau perjalanan. Fokusnya membantu kamu mengenal tempat dan mempersiapkan perjalanan.",
+    "photosLabel": "Pilihan Timur"
+  },
+  "notFound": "Halaman tidak ditemukan",
+  "six": {
+    "kicker": "Enam rekomendasi",
+    "h": "Enam tempat pilihan",
+    "body": "Enam tempat di Nusa Tenggara Timur yang kami rekomendasikan, lengkap dengan foto, rute, dan perkiraan biaya.",
+    "more": "Lihat detail",
+    "cta": "Lihat pilihannya",
+    "about": "Tentang situs ini",
+    "aboutBody": "Pilihan Timur adalah panduan ringkas dua bahasa (ID/EN) untuk enam tempat wisata pilihan di Nusa Tenggara Timur. Informasi dicatat bersama sumber dan tanggal pemeriksaannya.",
+    "mapLabel": "Skema posisi enam pilihan di Flores, dari barat ke timur",
+    "mapNote": "Skema posisi relatif dari barat ke timur, bukan peta berskala."
+  },
+  "trip": {
+    "h": "Rute & anggaran",
+    "warn": "Perkiraan harga",
+    "routeH": "Rute perjalanan",
+    "to": "ke",
+    "toRange": "sampai",
+    "budgetH": "Anggaran per orang",
+    "perPerson": "/ orang",
+    "basis": "Dihitung dari",
+    "budgetNone": "Informasi biaya tempat ini belum tersedia. Tanyakan ke pengelola setempat.",
+    "budgetNote": "Hanya komponen yang punya sumber (tiket dan transportasi). Belum termasuk makan, penginapan, dan oleh-oleh.",
+    "openMap": "Buka di Google Maps",
+    "mapNote": "Tautan membuka pencarian nama tempat, bukan koordinat resmi. Cek rute terkini sebelum berangkat.",
+    "advWarn": "Perhatian",
+    "advInfo": "Kabar terbaru",
+    "asOf": "per",
+    "src": "sumber"
+  },
+  "plan": {
+    "kicker": "Rencanakan dari kotamu",
+    "h": "Dari mana kamu berangkat?",
+    "body": "Pilih kota asal di seluruh Indonesia. Kami tunjukkan bandara gerbang di Flores untuk tiap pilihan dan tautan langsung ke situs yang menyediakan harga tiket, lalu kamu bisa menghitung total biaya dari kotamu.",
+    "pick": "Kota asal",
+    "pickPh": "Pilih kota asal",
+    "pickHint": "Pilih kota asal untuk melihat tautan cek tiket.",
+    "picked": "Berangkat dari {city}.",
+    "mapLabel": "Peta Indonesia: kota asal dan lokasi Flores, NTT",
+    "mapNote": "Peta skema. Garis putus-putus hanya menunjukkan arah, bukan rute penerbangan.",
+    "gatewayH": "Bandara gerbang yang disarankan",
+    "checkH": "Cek tiket dari {city}",
+    "local": "Biaya di lokasi (bersumber)",
+    "localNone": "Biaya di lokasi: belum ada data",
+    "perPerson": "per orang",
+    "calc": "Hitung total biaya",
+    "otherH": "Moda lain & informasi resmi",
+    "otherNote": "Dari Jawa, Sumatera, dan pulau lain tersedia juga kapal laut, feri, dan kereta. Cek jadwal dan tarif langsung di situs penyedianya.",
+    "flightsNote": "Harga tiket berubah setiap hari, jadi selalu cek di situs penyedia. Bandara gerbang adalah saran bandara terdekat menuju tiap tempat.",
+    "quakeH": "Perhatian: gempa Flores 15 Agustus 2026",
+    "quake": "Gempa M7,7 pada 15 Agustus 2026 sempat menutup sebagian destinasi di Flores. Menurut BPOLBF (data 23 Agustus 2026) bandara di Labuan Bajo, Ende, Maumere, Ruteng, dan Bajawa beroperasi dan jalan utama bisa dilalui, tetapi sebagian destinasi masih ditutup dan gempa susulan masih terjadi. Jangan memaksakan ke lokasi yang ditutup, dan cek status ke pengelola sebelum berangkat.",
+    "quakeSrc": "Sumber: BPOLBF, 24 Agustus 2026"
+  },
+  "calc": {
+    "h": "Hitung biaya dari kotamu",
+    "intro": "Isi harga tiket yang kamu temukan di situs penyedia. Biaya di lokasi (tiket masuk dan transportasi lokal) sudah terisi dari sumber kami. Angka yang kamu isi hanya tersimpan di perangkatmu.",
+    "origin": "Kota asal",
+    "people": "Jumlah orang",
+    "fare": "Harga tiket pulang-pergi per orang (Rp)",
+    "nights": "Jumlah malam menginap",
+    "lodging": "Penginapan per malam, total (Rp)",
+    "meals": "Makan per hari per orang (Rp)",
+    "check": "Cek tiket dari {city}",
+    "total": "Estimasi total untuk {n} orang",
+    "fillFare": "Isi harga tiket (dari tautan di atas) untuk melihat total.",
+    "formula": "Tiket × orang + penginapan × malam + makan × hari × orang + biaya lokal bersumber.",
+    "noFare": "Harga tiket belum diisi, jadi total belum lengkap.",
+    "disclaimer": "Perkiraan harga. Belum termasuk oleh-oleh, tiket asing, sewa perahu, dan biaya tak terduga; lihat catatan biaya di atas."
+  },
+  "fares": {
+    "h": "Contoh harga (bukan tarif pasti)",
+    "ow": "Sekali jalan termurah",
+    "rt": "Pulang-pergi termurah",
+    "avg": "Rata-rata pulang-pergi",
+    "range": "Rata-rata PP bulanan",
+    "use": "Pakai",
+    "none": "Belum ada contoh harga untuk rute ini; cek lewat tautan di atas.",
+    "disc": "Dikutip dari agregator tiket pada tanggal yang tertera. Harga berubah tiap hari dan bisa berbeda saat kamu memesan.",
+    "data": "data",
+    "usdNote": "dalam dolar AS"
+  }
+}
